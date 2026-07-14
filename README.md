@@ -30,4 +30,4 @@ Features include sales, profit, quantity, discounts, customer segments, regions,
 
 ## Project Status
 
-Data exploration and profiling in progress.
+Data exploration and profiling complete.
